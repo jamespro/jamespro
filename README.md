@@ -13,7 +13,7 @@
 ### Glad to see you here!  
 I'm a full stack software engineer with experience in JavaScript, SQL/NoSQL, PHP, ASP, HTML, CSS, and various front-end and back-end frameworks and libraries.  
 
-## Quick Takes
+### Quick Takes
 
 - 🔭 I’m currently working on [Event Reg](https://github.com/jamespro/eventregi)  
   
@@ -23,7 +23,7 @@ I'm a full stack software engineer with experience in JavaScript, SQL/NoSQL, PHP
 
 - ⚡ Fun fact: I prefer tabs to spaces, but I won't fight you about it.   
 
-## Languages and Tools  
+### Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -53,4 +53,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💬 Ask me about Javascript fundamentals and React.
+- 📫 You can reach me at james@prickitt.com
+- 📄 Learn about my experience by downloading my resume
 -->
