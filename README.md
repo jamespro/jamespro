@@ -19,7 +19,7 @@ I'm a full stack software engineer with experience in JavaScript, SQL/NoSQL, PHP
 
 - 🌱 I’m currently learning React and Angular. (I'm sneaking in some machine learning/AI.)
 
-- ❓ Open to chat about things related to MERN stack, though my background is PHP/MySQL/MSSQL.
+- ❓ Open to chat about things related to MERN stack (though my background is PHP/MySQL/MSSQL).
 
 - ⚡ Fun fact: I prefer tabs to spaces, but I won't fight you about it.   
 
